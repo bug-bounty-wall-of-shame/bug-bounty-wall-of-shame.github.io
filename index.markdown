@@ -5,11 +5,7 @@
 layout: home
 ---
 
-# TEST
-
-
-```
-testing whatever this looks like when I change this page.
-```
-
-TEST
+| Project      | Date |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
