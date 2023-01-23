@@ -31,6 +31,7 @@ twitter_username: bbwallofshame
 
 # Build settings
 theme: minima
+  skin: dark
 plugins:
   - jekyll-feed
 # Exclude from processing.
