@@ -22,6 +22,7 @@ title: Bug Bounty Wall of Shame
 email: bug-bounty-wall-of-shame@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   A leaderboard of the projects who have rekt security researchers after they've found bugs in their code.
+  Email bug-bounty-wall-of-shame@proton.me to have your horror story vetted and added to the leaderboard.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bug-bounty-wall-of-shame
