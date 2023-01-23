@@ -30,7 +30,7 @@ github_username: bug-bounty-wall-of-shame
 twitter_username: bbwallofshame
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
@@ -52,5 +52,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-minima:
-  skin: dark
