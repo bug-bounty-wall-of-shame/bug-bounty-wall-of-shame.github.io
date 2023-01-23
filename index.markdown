@@ -5,7 +5,8 @@
 layout: home
 ---
 
-| Project      | Date |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Project | Date | Potential Economic Damage | Project Payment | Description | Details |
+| --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
