@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Security researchers unite!
+Security researchers unite! ☭
 
 We're tired of spending sleepless nights finding bugs in protocols only to have a payout of $500 when the economic damage totals in the millions.
 
