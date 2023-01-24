@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| Project | Date | Potential Economic Damage | Unpaid Amount | Description | Details |
+| Project | Date | Value At Risk | Unpaid Amount | Description | Details |
 | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |
 |     |     |     |     |     |     |
