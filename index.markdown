@@ -8,7 +8,7 @@ layout: home
 | Project | Date | Value At Risk | Unpaid Amount | Description | Details | 
 | --- | --- | --- | --- | --- | --- |
 |  Arbitrum   |  Sep 2022   |  352,000 ETH   |  1200 ETH   |  [A compromised deposit contract allowed theft of all incoming deposits.](https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2)   |  The largest deposit during bug bounty negotiation was 351,803 ETH. The max bounty for a critical vulnerability was advertised as $2mm. The white hat was only awarded 25% of the max bounty (400 ETH).   | 
-|     |     |     |     |     |     |
+|  Aave   |     |  $40M ($1.5M stolen)   |  $250K   |  CRV economic exploit  |  A sophisticated attacker targeted Aave's treasury using an economic exploit of CRV borrowing/lending on the protocol. The white hat showed them the wallet, the attack path, and how to stop it, days before the attack occurred. Over $40m was at risk. $1.5m was actually taken from the exploit, which was stopped midway by private individuals leading a short squeeze.  Aave paid no bug bounty.   |
 |     |     |     |     |     |     |
 |     |     |     |     |     |     |
 |     |     |     |     |     |     |
